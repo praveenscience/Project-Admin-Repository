@@ -1,3 +1,3 @@
 # Project Admin Repository
 
-Here is Proejct Admin Rprository! Pls kantribyut!
+Here is Project Admin Repository! Please contribute!
